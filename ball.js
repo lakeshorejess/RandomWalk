@@ -17,7 +17,7 @@ function makeBall(xcoord, ycoord, color, velx = 0, vely = 0, fixed = 0) {
       velocity_y.push(vely);
     }
   }
-  
-  update()
+  setTimeout(makeBall, 100)
+
   //factory(3)
   
