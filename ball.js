@@ -18,5 +18,5 @@ function makeBall(xcoord, ycoord, color, velx = 0, vely = 0, fixed = 0) {
   }
 }
 
-update()
+makeBall()
 //factory(3)
